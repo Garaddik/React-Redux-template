@@ -1,0 +1,1 @@
+export const SCHOOLS_LIST = 'SCHOOLS_LIST'
